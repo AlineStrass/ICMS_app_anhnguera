@@ -96,8 +96,8 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="48dp"
-            android:text="Calcular"
-            android:onClick="calcular" />
+            android:onClick="calcular"
+            android:text="Calcular" />
 
     </LinearLayout>
 </ScrollView>
